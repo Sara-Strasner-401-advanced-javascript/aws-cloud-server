@@ -2,7 +2,7 @@
 
 ## 
 - [GUI deployed server](http://lab16awscloudserver-env.eba-aeygra2b.us-east-2.elasticbeanstalk.com/)
-- [CLI deployed server]()
+- [CLI deployed server](http://aws-cli-deployment-dev.us-west-2.elasticbeanstalk.com/)
 
 
 ## Processes
