@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sarastrasner/aws-cloud-server#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "express": "^4.17.1"
   }
 }
